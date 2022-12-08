@@ -1,7 +1,7 @@
 ### Aopa! Me chamo Pascoal Neto 👋
 
 - Estutande de Analise e Desenvolvimento de Sistemas
-- 
+- Linguagens: | C# | .Net | HTML5 | CSS | JavaScript
 
 <div align="center">
   <a href="https://github.com/Pascoal-Neto">
