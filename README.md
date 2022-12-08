@@ -1,7 +1,7 @@
-### Oie! Sou a Julia Pereira 👋
+### Aopa! Me chamo Pascoal Neto 👋
 
-- ⚡ Hoje eu trabalho com front-end.
-- 🔭 Estudando C#
+- Estutande de Analise e Desenvolvimento de Sistemas
+- 
 
 <div align="center">
   <a href="https://github.com/Pascoal-Neto">
